@@ -21,7 +21,6 @@
 # 作者
 
 松川　周矢　n21023@std.it-college.ac.jp
-山田　侑空　n21025@std.it-college.ac.jp
 
 # 今後の計画
 
